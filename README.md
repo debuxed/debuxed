@@ -1,15 +1,12 @@
 ### Hi there 👋
+
 <p align="center">
-  There are somethings you should know about me:
-  <br><br>
-  - 🔭 I’m currently working on C#, SQL, Angular.<br>
-  - 🌱 I’m currently learning React JS.<br>
-  - 👯 I’m looking to collaborate on React JS.<br>
-  - 🤔 I’m looking for help with AWS.<br>
-  - 💬 Ask me about anything.<br>
-  - 📫 How to reach me: [Website](https://kunalshah.me)<br>
-  - 😄 Pronouns: He/Him<br>
-  - ⚡ Fun fact: I use to hate JS.<br>
+  <img src="https://media3.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif">
   <br>
-  ![](https://komarev.com/ghpvc/?username=debuxed)
+  <img src="https://komarev.com/ghpvc/?username=debuxed&style=flat-square">
+  <br><br>
+  <samp>
+    I'm Kunal. A full-stack web developer.<br><br>
+     Follow me on <a href="https://twitter.com/debxued">Twitter</a> or Github :)
+  </samp>
 </p>
