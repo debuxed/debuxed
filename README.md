@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-Here are some ideas to get you started:
+<p align="center">
+There are somethings you should know about me:
 
 - 🔭 I’m currently working on C#, SQL, Angular.
 - 🌱 I’m currently learning React JS.
@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=debuxed)
 
+<p>
