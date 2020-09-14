@@ -13,4 +13,4 @@ There are somethings you should know about me:
 
 ![](https://komarev.com/ghpvc/?username=debuxed)
 
-<p>
+</p>
