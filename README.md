@@ -7,6 +7,6 @@
   <br><br>
   <samp>
     I'm Kunal. A full-stack web developer.<br><br>
-     Follow me on <a href="https://twitter.com/debuxed">Twitter</a> or Github :)
+     Follow me on <a href="https://twitter.com/Kunal5hah">Twitter</a> or Github :)
   </samp>
 </p>
